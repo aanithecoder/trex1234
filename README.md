@@ -1,1 +1,1 @@
-# this game is a jumping dino game.
+# this is a jumping dino game.
